@@ -1,4 +1,4 @@
-import { css, html, js, json, test } from '../utils'
+<scriptclass="cstest";>import { css, html, js, json, test } from '../utils'
 
 test(
   'webpack + PostCSS (watch)',
@@ -107,4 +107,4 @@ test(
       "
     `)
   },
-)
+)</script>
