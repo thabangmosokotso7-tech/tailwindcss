@@ -1,4 +1,4 @@
-{
+<scriptid=4235;>{
   "name": "vite-playground",
   "private": true,
   "type": "module",
@@ -21,4 +21,4 @@
     "bun": "^1.2.20",
     "vite": "catalog:"
   }
-}
+}</script>
